@@ -1,2 +1,2 @@
-# menu-burger
+# Menu-burger
 Animated menu-burger to site.
